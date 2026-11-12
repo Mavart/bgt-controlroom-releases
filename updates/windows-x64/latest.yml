@@ -1,13 +1,13 @@
 {
-  "version": "0.1.13",
+  "version": "0.1.14",
   "files": [
     {
-      "url": "https://github.com/Mavart/bgt-controlroom-releases/releases/download/windows-x64-v0.1.13/BGT-Control-Room-0.1.13-x64-Setup.exe",
-      "sha512": "zmK1+CL8scW8deZ0erTqIbOs5XId5TgTIj0yLflZScCBlxTh/p4t8ga10JeApc5ve1t4oz3Q1imL0pQ0QVpm5Q==",
-      "size": 141327835
+      "url": "https://github.com/Mavart/bgt-controlroom-releases/releases/download/windows-x64-v0.1.14/BGT-Control-Room-0.1.14-x64-Setup.exe",
+      "sha512": "LbPzeD+65GLYvRwx5BjrKyx5GpehfoK+CrRHR99fAFbNLFk5JyyDG+HoYd333R0twXa1Xg7OEHd0LtR16yWFqw==",
+      "size": 141327279
     }
   ],
-  "path": "https://github.com/Mavart/bgt-controlroom-releases/releases/download/windows-x64-v0.1.13/BGT-Control-Room-0.1.13-x64-Setup.exe",
-  "sha512": "zmK1+CL8scW8deZ0erTqIbOs5XId5TgTIj0yLflZScCBlxTh/p4t8ga10JeApc5ve1t4oz3Q1imL0pQ0QVpm5Q==",
-  "releaseDate": "2026-11-12T11:55:26.872Z"
+  "path": "https://github.com/Mavart/bgt-controlroom-releases/releases/download/windows-x64-v0.1.14/BGT-Control-Room-0.1.14-x64-Setup.exe",
+  "sha512": "LbPzeD+65GLYvRwx5BjrKyx5GpehfoK+CrRHR99fAFbNLFk5JyyDG+HoYd333R0twXa1Xg7OEHd0LtR16yWFqw==",
+  "releaseDate": "2026-11-12T12:37:15.916Z"
 }
